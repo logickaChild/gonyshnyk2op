@@ -1,0 +1,30 @@
+img{
+border: 2px solid blue;    
+}
+h1{
+    color:hotpink;
+    text-align: center;
+    padding: 10px;
+}
+h2{
+    color: rgb(72, 42, 100);
+    text-align:center;
+}
+nav{
+    border: 10px;
+    color: crimson;
+    text-align: center;
+}
+.fauna{
+    font-size: 24px;
+     color: rgb(72, 42, 100);
+     font-weight:600;
+}
+.fauna span{
+    font-weight: 800;
+    font-size: 28px;
+    color: hotpink;
+}   
+h2 span{
+    color: brown;
+}
